@@ -1,6 +1,4 @@
-# Heyy !!
-
-**It's a pleasure to meet you.**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&random=false&width=435&lines=Heyy!!;It's+a+pleasure+to+meet+you.)](https://git.io/typing-svg)
 
 I work mostly on private repositories, but I'm always building something new in my spare time.  
 My interests generally revolve around programming and finance/investing related topics, so if you have any interesting ideas or topics, you can count on me!
