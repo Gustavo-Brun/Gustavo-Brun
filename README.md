@@ -9,7 +9,7 @@ My interests generally revolve around programming and finance/investing related 
 
 > Let's talk! You can contact me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-2E2DEB?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Gustavo-Brun/)](https://www.linkedin.com/in/Gustavo-Brun/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-2E2DEB?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Gustavo-Brun/)](https://www.linkedin.com/in/gustavobrun/)
 [![Gmail Badge](https://img.shields.io/badge/-gustavobdossantos.gb@gmail.com-2E2DEB?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gustavobddossantos.gb@gmail.com)](mailto:gustavobdossantos.gb@gmail.com)
 
 &nbsp;
